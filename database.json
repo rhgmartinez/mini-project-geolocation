@@ -1,0 +1,17 @@
+{
+    "dev": {
+      "host": "localhost",
+      "port":"3306",
+      "database": "mini_project",
+      "driver": "mysql",
+      "user": "root",
+      "password": ""
+    },
+    "prod": {
+      "host": "localhost",
+      "database": "mini_project",
+      "driver": "mysql",
+      "user": "root",
+      "password": ""
+    }
+}
